@@ -1,0 +1,62 @@
+
+[{
+ "activityType" : "YesOrNOActivity",
+ "question" : "Hi, how are you?",
+ "instruction" : "What should you reply?",
+ "answerlist" : [
+                 "*I'm fine, thanks.",
+                 "how are you?",
+                 "Me too."
+                 ]
+ },
+ {
+ "activityType" : "YesOrNOActivity",
+ "question" : "I am going to have lunch.",
+ "instruction" : "Which question should get this reply?",
+ "answerlist" : [
+                 "Hi, how are you?",
+                 "Where are you?",
+                 "*What are you going to do?"
+                 ]
+ },
+ {
+ "activityType" : "YesOrNOActivity",
+ "question" : "I'll be here __ October.",
+ "instruction" : "What do you think it should be in the blank space?",
+ "answerlist" : [
+                 "at",
+                 "on",
+                 "*in"
+                 ]
+ },
+ {
+ "activityType" : "YesOrNOActivity",
+ "question" : "I'll be here __ October.",
+ "instruction" : "What do you think it should be in the blank space?",
+ "answerlist" : [
+                 "at",
+                 "on",
+                 "*in"
+                 ]
+ },
+ {
+ "activityType" : "YesOrNOActivity",
+ "question" : "I'll be here __ October.",
+ "instruction" : "What do you think it should be in the blank space?",
+ "answerlist" : [
+                 "at",
+                 "on",
+                 "*in"
+                 ]
+ },
+ {
+ "activityType" : "YesOrNOActivity",
+ "question" : "I'll be here __ October.",
+ "instruction" : "What do you think it should be in the blank space?",
+ "answerlist" : [
+                 "at",
+                 "on",
+                 "*in"
+                 ]
+ }
+ ]

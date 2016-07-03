@@ -1,0 +1,35 @@
+{"events":[
+           {"beaconUUID": "4568D9B6-F3F8-4E99-9AB6-350D92825A2E" ,
+           "beaconMajor" : "401" ,
+           "beaconMinor" : "401",
+           "title" : "Math 20A",
+           "descriptionOfEvent" : "Intro to Calculus" ,
+           "timeOfEvent" : "08:00:00",
+           "durationOfEvent" : "00:1:00:00",
+           "datesOfEvent" : [
+                             {"Sunday" : "NO"}, {"Monday" : "YES"},{"Tuesday" : "YES"}, {"Wednesday" : "YES"}, {"Thursday" : "YES"}, {"Friday": "YES"}, {"Saturday" : "NO"}
+                             ] ,
+           "locationOfEvent" : "UCSD, Center 212" ,
+           "completed" : "No" ,
+           "happeningNow" : "Yes",
+           "eventTopicsArray" :[
+                                                                                                                                                                                                                                                                                                                { "eventTopicTitle" : "Derivatives"},
+                                                                                                                                                                                { "eventTopicTitle" : "Limits"},
+                                                                                                                                                                                                     { "eventTopicTitle" : "Integrals"}
+                                                                                                                                            ] },
+           {"beaconUUID": "4568D9B6-F3F8-4E99-9AB6-350D92825A2E" ,
+           "beaconMajor" : "404" ,
+           "beaconMinor" : "404",
+           "title" : "MCWP 50",
+           "descriptionOfEvent" : "Intro to Calculus" ,
+           "dateOfEvent" : "5/8/12" ,
+           "locationOfEvent" : "UCSD, Center 213" ,
+           "completed" : "No" ,
+           "happeningNow" : "Yes",
+           "eventTopicsArray" :[
+                                { "eventTopicTitle" : "Anti-Derivative"},
+                                { "eventTopicTitle" : "Optimization"},
+                                { "eventTopicTitle" : "Double Integrals"}
+                                ] }
+           ]
+}
